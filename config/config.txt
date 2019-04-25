@@ -1,0 +1,1 @@
+{"chaojiying_user":"a948264664","chaojiying_password":"a948264664","thread_num":3,"restart":"True","id_num":125,"is_post":"True","is_write_txt":"False","is_error_cut_screen":"False","request_interval_account":60,"request_interval_patent_number":60}
